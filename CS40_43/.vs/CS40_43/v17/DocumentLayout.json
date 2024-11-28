@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CS40_43\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|d:\\c#\\cs40_43\\cs40_43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|solutionrelative:cs40_43\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|d:\\c#\\cs40_43\\cs40_43\\cs43.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|solutionrelative:cs40_43\\cs43.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|d:\\c#\\cs40_43\\cs40_43\\cs42.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|solutionrelative:cs40_43\\cs42.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|d:\\c#\\cs40_43\\cs40_43\\cs40.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|solutionrelative:cs40_43\\cs40.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|d:\\c#\\cs40_43\\cs40_43\\cs41.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A16D2-F657-4482-A459-649522E94003}|CS40_43\\CS40_43.csproj|solutionrelative:cs40_43\\cs41.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CS40_43\\CS40_43\\Program.cs",
+              "RelativeDocumentMoniker": "CS40_43\\Program.cs",
+              "ToolTip": "D:\\C#\\CS40_43\\CS40_43\\Program.cs",
+              "RelativeToolTip": "CS40_43\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:57:04.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CS40.cs",
+              "DocumentMoniker": "D:\\C#\\CS40_43\\CS40_43\\CS40.cs",
+              "RelativeDocumentMoniker": "CS40_43\\CS40.cs",
+              "ToolTip": "D:\\C#\\CS40_43\\CS40_43\\CS40.cs",
+              "RelativeToolTip": "CS40_43\\CS40.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:59:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CS41.cs",
+              "DocumentMoniker": "D:\\C#\\CS40_43\\CS40_43\\CS41.cs",
+              "RelativeDocumentMoniker": "CS40_43\\CS41.cs",
+              "ToolTip": "D:\\C#\\CS40_43\\CS40_43\\CS41.cs",
+              "RelativeToolTip": "CS40_43\\CS41.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:59:20.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CS42.cs",
+              "DocumentMoniker": "D:\\C#\\CS40_43\\CS40_43\\CS42.cs",
+              "RelativeDocumentMoniker": "CS40_43\\CS42.cs",
+              "ToolTip": "D:\\C#\\CS40_43\\CS40_43\\CS42.cs",
+              "RelativeToolTip": "CS40_43\\CS42.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:59:22.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS43.cs",
+              "DocumentMoniker": "D:\\C#\\CS40_43\\CS40_43\\CS43.cs",
+              "RelativeDocumentMoniker": "CS40_43\\CS43.cs",
+              "ToolTip": "D:\\C#\\CS40_43\\CS40_43\\CS43.cs",
+              "RelativeToolTip": "CS40_43\\CS43.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:54:12.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

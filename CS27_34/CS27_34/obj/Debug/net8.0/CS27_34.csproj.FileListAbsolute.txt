@@ -1,0 +1,14 @@
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.AssemblyInfoInputs.cache
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.AssemblyInfo.cs
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.csproj.CoreCompileInputs.cache
+D:\C#\CS27_34\CS27_34\bin\Debug\net8.0\CS27_34.exe
+D:\C#\CS27_34\CS27_34\bin\Debug\net8.0\CS27_34.deps.json
+D:\C#\CS27_34\CS27_34\bin\Debug\net8.0\CS27_34.runtimeconfig.json
+D:\C#\CS27_34\CS27_34\bin\Debug\net8.0\CS27_34.dll
+D:\C#\CS27_34\CS27_34\bin\Debug\net8.0\CS27_34.pdb
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.dll
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\refint\CS27_34.dll
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.pdb
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\CS27_34.genruntimeconfig.cache
+D:\C#\CS27_34\CS27_34\obj\Debug\net8.0\ref\CS27_34.dll

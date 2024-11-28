@@ -1,0 +1,14 @@
+C:\Users\trant\source\repos\CS15_21\CS15_21\bin\Debug\net8.0\CS15_21.exe
+C:\Users\trant\source\repos\CS15_21\CS15_21\bin\Debug\net8.0\CS15_21.deps.json
+C:\Users\trant\source\repos\CS15_21\CS15_21\bin\Debug\net8.0\CS15_21.runtimeconfig.json
+C:\Users\trant\source\repos\CS15_21\CS15_21\bin\Debug\net8.0\CS15_21.dll
+C:\Users\trant\source\repos\CS15_21\CS15_21\bin\Debug\net8.0\CS15_21.pdb
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.AssemblyInfoInputs.cache
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.AssemblyInfo.cs
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.dll
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\refint\CS15_21.dll
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.pdb
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\CS15_21.genruntimeconfig.cache
+C:\Users\trant\source\repos\CS15_21\CS15_21\obj\Debug\net8.0\ref\CS15_21.dll

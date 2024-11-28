@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CS35_39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3306D8D8-4305-44C7-A6F7-4095A45D098D}|CS35_39\\CS35_39.csproj|d:\\c#\\cs35_39\\cs35_39\\cs38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3306D8D8-4305-44C7-A6F7-4095A45D098D}|CS35_39\\CS35_39.csproj|solutionrelative:cs35_39\\cs38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3306D8D8-4305-44C7-A6F7-4095A45D098D}|CS35_39\\CS35_39.csproj|d:\\c#\\cs35_39\\cs35_39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3306D8D8-4305-44C7-A6F7-4095A45D098D}|CS35_39\\CS35_39.csproj|solutionrelative:cs35_39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CS35_39\\CS35_39\\Program.cs",
+              "RelativeDocumentMoniker": "CS35_39\\Program.cs",
+              "ToolTip": "D:\\C#\\CS35_39\\CS35_39\\Program.cs",
+              "RelativeToolTip": "CS35_39\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:53:40.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS38.cs",
+              "DocumentMoniker": "D:\\C#\\CS35_39\\CS35_39\\CS38.cs",
+              "RelativeDocumentMoniker": "CS35_39\\CS38.cs",
+              "ToolTip": "D:\\C#\\CS35_39\\CS35_39\\CS38.cs",
+              "RelativeToolTip": "CS35_39\\CS38.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:39:25.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\WPF_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30F6D7-FBEE-4E91-9AC5-0280C502FB4C}|TranQuocTuan-DCCTCT6605E\\TranQuocTuan-DCCTCT6605E.csproj|d:\\c#\\wpf_02\\tranquoctuan-dcctct6605e\\frmshippers_2121050862_tranquoctuan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F30F6D7-FBEE-4E91-9AC5-0280C502FB4C}|TranQuocTuan-DCCTCT6605E\\TranQuocTuan-DCCTCT6605E.csproj|solutionrelative:tranquoctuan-dcctct6605e\\frmshippers_2121050862_tranquoctuan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30F6D7-FBEE-4E91-9AC5-0280C502FB4C}|TranQuocTuan-DCCTCT6605E\\TranQuocTuan-DCCTCT6605E.csproj|d:\\c#\\wpf_02\\tranquoctuan-dcctct6605e\\frmshippers_2121050862_tranquoctuan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F30F6D7-FBEE-4E91-9AC5-0280C502FB4C}|TranQuocTuan-DCCTCT6605E\\TranQuocTuan-DCCTCT6605E.csproj|solutionrelative:tranquoctuan-dcctct6605e\\frmshippers_2121050862_tranquoctuan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmShippers_2121050862_TranQuocTuan.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\WPF_02\\TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml.cs",
+              "RelativeDocumentMoniker": "TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml.cs",
+              "ToolTip": "D:\\C#\\WPF_02\\TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml.cs",
+              "RelativeToolTip": "TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwMUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:01:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmShippers_2121050862_TranQuocTuan.xaml",
+              "DocumentMoniker": "D:\\C#\\WPF_02\\TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml",
+              "RelativeDocumentMoniker": "TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml",
+              "ToolTip": "D:\\C#\\WPF_02\\TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml",
+              "RelativeToolTip": "TranQuocTuan-DCCTCT6605E\\frmShippers_2121050862_TranQuocTuan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T10:14:53.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

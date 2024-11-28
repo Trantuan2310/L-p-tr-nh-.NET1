@@ -1,0 +1,17 @@
+D:\C#\CS44_48\CS44_48\bin\Debug\net8.0\CS44_48.exe
+D:\C#\CS44_48\CS44_48\bin\Debug\net8.0\CS44_48.deps.json
+D:\C#\CS44_48\CS44_48\bin\Debug\net8.0\CS44_48.runtimeconfig.json
+D:\C#\CS44_48\CS44_48\bin\Debug\net8.0\CS44_48.dll
+D:\C#\CS44_48\CS44_48\bin\Debug\net8.0\CS44_48.pdb
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.AssemblyInfoInputs.cache
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.AssemblyInfo.cs
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.csproj.CoreCompileInputs.cache
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.dll
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\refint\CS44_48.dll
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.pdb
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.genruntimeconfig.cache
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\ref\CS44_48.dll
+D:\C#\CS44_48\CS44_48\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.csproj.AssemblyReference.cache
+D:\C#\CS44_48\CS44_48\obj\Debug\net8.0\CS44_48.csproj.Up2Date

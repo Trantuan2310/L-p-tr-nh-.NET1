@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CS15_21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9736EC22-019D-4425-BE7F-5DAB1C044D69}|CS15_21\\CS15_21.csproj|d:\\c#\\cs15_21\\cs15_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9736EC22-019D-4425-BE7F-5DAB1C044D69}|CS15_21\\CS15_21.csproj|solutionrelative:cs15_21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CS15_21\\CS15_21\\Program.cs",
+              "RelativeDocumentMoniker": "CS15_21\\Program.cs",
+              "ToolTip": "D:\\C#\\CS15_21\\CS15_21\\Program.cs",
+              "RelativeToolTip": "CS15_21\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:54:39.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

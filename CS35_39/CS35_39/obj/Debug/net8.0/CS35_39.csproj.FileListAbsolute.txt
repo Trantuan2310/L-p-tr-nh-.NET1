@@ -1,0 +1,14 @@
+D:\C#\CS35_39\CS35_39\bin\Debug\net8.0\CS35_39.exe
+D:\C#\CS35_39\CS35_39\bin\Debug\net8.0\CS35_39.deps.json
+D:\C#\CS35_39\CS35_39\bin\Debug\net8.0\CS35_39.runtimeconfig.json
+D:\C#\CS35_39\CS35_39\bin\Debug\net8.0\CS35_39.dll
+D:\C#\CS35_39\CS35_39\bin\Debug\net8.0\CS35_39.pdb
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.AssemblyInfoInputs.cache
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.AssemblyInfo.cs
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.csproj.CoreCompileInputs.cache
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.dll
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\refint\CS35_39.dll
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.pdb
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\CS35_39.genruntimeconfig.cache
+D:\C#\CS35_39\CS35_39\obj\Debug\net8.0\ref\CS35_39.dll

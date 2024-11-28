@@ -1,0 +1,9 @@
+﻿<Application x:Class="TranQuocTuan_DCCTCT6605E.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TranQuocTuan_DCCTCT6605E"
+             StartupUri="frmHoaTuoi_2121050862_TranQuocTuan.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

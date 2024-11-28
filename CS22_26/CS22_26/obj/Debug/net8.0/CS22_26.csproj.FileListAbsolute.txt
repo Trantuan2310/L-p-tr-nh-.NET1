@@ -1,0 +1,14 @@
+C:\Users\trant\source\repos\CS22_26\CS22_26\bin\Debug\net8.0\CS22_26.exe
+C:\Users\trant\source\repos\CS22_26\CS22_26\bin\Debug\net8.0\CS22_26.deps.json
+C:\Users\trant\source\repos\CS22_26\CS22_26\bin\Debug\net8.0\CS22_26.runtimeconfig.json
+C:\Users\trant\source\repos\CS22_26\CS22_26\bin\Debug\net8.0\CS22_26.dll
+C:\Users\trant\source\repos\CS22_26\CS22_26\bin\Debug\net8.0\CS22_26.pdb
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.AssemblyInfoInputs.cache
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.AssemblyInfo.cs
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.dll
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\refint\CS22_26.dll
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.pdb
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\CS22_26.genruntimeconfig.cache
+C:\Users\trant\source\repos\CS22_26\CS22_26\obj\Debug\net8.0\ref\CS22_26.dll

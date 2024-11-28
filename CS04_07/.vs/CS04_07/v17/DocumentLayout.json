@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CS04_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|d:\\c#\\cs04_07\\cs04_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|solutionrelative:cs04_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|d:\\c#\\cs04_07\\cs04_07\\cs07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|solutionrelative:cs04_07\\cs07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|d:\\c#\\cs04_07\\cs04_07\\cs06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|solutionrelative:cs04_07\\cs06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|d:\\c#\\cs04_07\\cs04_07\\cs05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|solutionrelative:cs04_07\\cs05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|d:\\c#\\cs04_07\\cs04_07\\cs04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{097EAE83-A865-463D-A578-71EBD64B009A}|CS04_07\\CS04_07.csproj|solutionrelative:cs04_07\\cs04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CS04_07\\CS04_07\\Program.cs",
+              "RelativeDocumentMoniker": "CS04_07\\Program.cs",
+              "ToolTip": "D:\\C#\\CS04_07\\CS04_07\\Program.cs",
+              "RelativeToolTip": "CS04_07\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:28:22.595Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CS07.cs",
+              "DocumentMoniker": "D:\\C#\\CS04_07\\CS04_07\\CS07.cs",
+              "RelativeDocumentMoniker": "CS04_07\\CS07.cs",
+              "ToolTip": "D:\\C#\\CS04_07\\CS04_07\\CS07.cs",
+              "RelativeToolTip": "CS04_07\\CS07.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:32:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CS06.cs",
+              "DocumentMoniker": "D:\\C#\\CS04_07\\CS04_07\\CS06.cs",
+              "RelativeDocumentMoniker": "CS04_07\\CS06.cs",
+              "ToolTip": "D:\\C#\\CS04_07\\CS04_07\\CS06.cs",
+              "RelativeToolTip": "CS04_07\\CS06.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:32:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CS05.cs",
+              "DocumentMoniker": "D:\\C#\\CS04_07\\CS04_07\\CS05.cs",
+              "RelativeDocumentMoniker": "CS04_07\\CS05.cs",
+              "ToolTip": "D:\\C#\\CS04_07\\CS04_07\\CS05.cs",
+              "RelativeToolTip": "CS04_07\\CS05.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:32:13.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CS04.cs",
+              "DocumentMoniker": "D:\\C#\\CS04_07\\CS04_07\\CS04.cs",
+              "RelativeDocumentMoniker": "CS04_07\\CS04.cs",
+              "ToolTip": "D:\\C#\\CS04_07\\CS04_07\\CS04.cs",
+              "RelativeToolTip": "CS04_07\\CS04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:31:31.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

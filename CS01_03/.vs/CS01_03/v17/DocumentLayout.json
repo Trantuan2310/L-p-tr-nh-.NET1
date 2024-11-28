@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CS01_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|d:\\c#\\cs01_03\\cs01_03\\cs02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|solutionrelative:cs01_03\\cs02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|d:\\c#\\cs01_03\\cs01_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|solutionrelative:cs01_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|d:\\c#\\cs01_03\\cs01_03\\cs01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|solutionrelative:cs01_03\\cs01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|d:\\c#\\cs01_03\\cs01_03\\cs03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD572BB-A09D-4ADB-B7A7-1F9320E458C1}|CS01_03\\CS01_03.csproj|solutionrelative:cs01_03\\cs03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CS01_03\\CS01_03\\Program.cs",
+              "RelativeDocumentMoniker": "CS01_03\\Program.cs",
+              "ToolTip": "D:\\C#\\CS01_03\\CS01_03\\Program.cs",
+              "RelativeToolTip": "CS01_03\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:17:26.69Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CS01.cs",
+              "DocumentMoniker": "D:\\C#\\CS01_03\\CS01_03\\CS01.cs",
+              "RelativeDocumentMoniker": "CS01_03\\CS01.cs",
+              "ToolTip": "D:\\C#\\CS01_03\\CS01_03\\CS01.cs",
+              "RelativeToolTip": "CS01_03\\CS01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:17:49.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS02.cs",
+              "DocumentMoniker": "D:\\C#\\CS01_03\\CS01_03\\CS02.cs",
+              "RelativeDocumentMoniker": "CS01_03\\CS02.cs",
+              "ToolTip": "D:\\C#\\CS01_03\\CS01_03\\CS02.cs",
+              "RelativeToolTip": "CS01_03\\CS02.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:18:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CS03.cs",
+              "DocumentMoniker": "D:\\C#\\CS01_03\\CS01_03\\CS03.cs",
+              "RelativeDocumentMoniker": "CS01_03\\CS03.cs",
+              "ToolTip": "D:\\C#\\CS01_03\\CS01_03\\CS03.cs",
+              "RelativeToolTip": "CS01_03\\CS03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:18:34.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

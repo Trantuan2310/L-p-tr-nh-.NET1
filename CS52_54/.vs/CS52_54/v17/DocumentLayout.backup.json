@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CS52_54\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DEFFA6-E954-4497-BE22-304F78D6E049}|CS52_54\\CS52_54.csproj|d:\\c#\\cs52_54\\cs52_54\\cs54.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DEFFA6-E954-4497-BE22-304F78D6E049}|CS52_54\\CS52_54.csproj|solutionrelative:cs52_54\\cs54.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DEFFA6-E954-4497-BE22-304F78D6E049}|CS52_54\\CS52_54.csproj|d:\\c#\\cs52_54\\cs52_54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DEFFA6-E954-4497-BE22-304F78D6E049}|CS52_54\\CS52_54.csproj|solutionrelative:cs52_54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CS52_54\\CS52_54\\Program.cs",
+              "RelativeDocumentMoniker": "CS52_54\\Program.cs",
+              "ToolTip": "D:\\C#\\CS52_54\\CS52_54\\Program.cs",
+              "RelativeToolTip": "CS52_54\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:38:38.607Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS54.cs",
+              "DocumentMoniker": "D:\\C#\\CS52_54\\CS52_54\\CS54.cs",
+              "RelativeDocumentMoniker": "CS52_54\\CS54.cs",
+              "ToolTip": "D:\\C#\\CS52_54\\CS52_54\\CS54.cs",
+              "RelativeToolTip": "CS52_54\\CS54.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:31:55.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

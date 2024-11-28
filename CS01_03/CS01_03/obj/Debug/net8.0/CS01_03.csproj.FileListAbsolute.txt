@@ -1,0 +1,14 @@
+C:\Users\trant\source\repos\CS01_03\CS01_03\bin\Debug\net8.0\CS01_03.exe
+C:\Users\trant\source\repos\CS01_03\CS01_03\bin\Debug\net8.0\CS01_03.deps.json
+C:\Users\trant\source\repos\CS01_03\CS01_03\bin\Debug\net8.0\CS01_03.runtimeconfig.json
+C:\Users\trant\source\repos\CS01_03\CS01_03\bin\Debug\net8.0\CS01_03.dll
+C:\Users\trant\source\repos\CS01_03\CS01_03\bin\Debug\net8.0\CS01_03.pdb
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.AssemblyInfoInputs.cache
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.AssemblyInfo.cs
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.csproj.CoreCompileInputs.cache
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.dll
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\refint\CS01_03.dll
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.pdb
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\CS01_03.genruntimeconfig.cache
+C:\Users\trant\source\repos\CS01_03\CS01_03\obj\Debug\net8.0\ref\CS01_03.dll
